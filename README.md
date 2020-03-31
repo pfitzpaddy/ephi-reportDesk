@@ -8,3 +8,4 @@ The one stop shop for projects, issues and features for ephiPulse
 
 1. Server [install](https://github.com/pfitzpaddy/ephi-reportShell)
 2. ephiPulse [app](https://github.com/pfitzpaddy/ephi-reportPulse)
+3. Projects [page](https://github.com/pfitzpaddy/ephi-reportDesk/projects)
